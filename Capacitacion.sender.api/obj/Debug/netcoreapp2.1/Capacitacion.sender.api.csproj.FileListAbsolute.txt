@@ -1,0 +1,14 @@
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\bin\Debug\netcoreapp2.1\Capacitacion.sender.api.deps.json
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\bin\Debug\netcoreapp2.1\Capacitacion.sender.api.runtimeconfig.json
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\bin\Debug\netcoreapp2.1\Capacitacion.sender.api.runtimeconfig.dev.json
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\bin\Debug\netcoreapp2.1\Capacitacion.sender.api.dll
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\bin\Debug\netcoreapp2.1\Capacitacion.sender.api.pdb
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.csprojAssemblyReference.cache
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.csproj.CoreCompileInputs.cache
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.RazorAssemblyInfo.cache
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.RazorAssemblyInfo.cs
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.AssemblyInfoInputs.cache
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.AssemblyInfo.cs
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.RazorTargetAssemblyInfo.cache
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.dll
+c:\VisualStudioCode\Capacitacion\Capacitacion.sender.api\obj\Debug\netcoreapp2.1\Capacitacion.sender.api.pdb

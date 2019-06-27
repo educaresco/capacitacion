@@ -1,0 +1,14 @@
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\bin\Debug\netcoreapp2.2\Viacash.General.Api.deps.json
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\bin\Debug\netcoreapp2.2\Viacash.General.Api.runtimeconfig.json
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\bin\Debug\netcoreapp2.2\Viacash.General.Api.runtimeconfig.dev.json
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\bin\Debug\netcoreapp2.2\Viacash.General.Api.dll
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\bin\Debug\netcoreapp2.2\Viacash.General.Api.pdb
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.csprojAssemblyReference.cache
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.csproj.CoreCompileInputs.cache
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.RazorAssemblyInfo.cache
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.RazorAssemblyInfo.cs
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.AssemblyInfoInputs.cache
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.AssemblyInfo.cs
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.RazorTargetAssemblyInfo.cache
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.dll
+c:\VisualStudioCode\Capacitacion\Viacash.General.Api\obj\Debug\netcoreapp2.2\Viacash.General.Api.pdb
